@@ -1,0 +1,22 @@
+#install using the command below on command prompt
+#python -m pip install -r requirements.txt
+
+# --- Core Automation & Processing ---
+otdrparser==0.1.1
+requests==2.32.3
+python-dotenv==1.0.1
+
+# --- Windows Integration ---
+pywin32>=311
+xlwings==0.33.11
+
+# --- Web & Framework (Existing) ---
+asgiref==3.8.1
+Django==5.1.7
+django-debug-toolbar==5.1.0
+sqlparse==0.5.3
+tzdata==2025.2
+
+# --- Utilities ---
+pillow==11.1.0
+six==1.17.0
